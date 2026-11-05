@@ -3,7 +3,7 @@
 set -e
 
 VERSION="1.0.0"
-MAINTAINER="Your Name <mkarmannyi@UXL-CZZNHX3>"   # <-- change this
+MAINTAINER="Your Name <352882932+mkarmannyi-ui@users.noreply.github.com>"   # <-- change this
 NAME="login-video"
 
 cd "$(dirname "$0")"
