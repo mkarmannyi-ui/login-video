@@ -4,7 +4,7 @@ Plays a video on Ubuntu after login, after waking from suspend, and after unlock
 
 ## Install
 ```bash
-git clone https://github.com/YOUR-NAME/login-video.git
+git clone https://github.com/mkarmannyi-ui/login-video.git
 cd login-video
 chmod +x *.sh
 ./install.sh /path/to/your/video.mp4
@@ -40,6 +40,7 @@ Emergency exit when locked: press `Ctrl+Alt+F3`, log in, run `pkill mpv`, then `
 
 ## Uninstall
 ```bash
+cd login-video
 ./uninstall.sh
 ```
 
